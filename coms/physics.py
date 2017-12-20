@@ -13,5 +13,4 @@ mu0 = pi * 4e-7
 k_b = 1.3806488e-23
 angstrom = 10e-10 # meter -- order of size of an atom
 AU = 149597870700 # meter -- mean distance sun <-> earth
-tau = 2 * pi
 atm = 101325
